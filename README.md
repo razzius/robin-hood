@@ -43,3 +43,7 @@ $ vim inscription.txt
 $ git add inscription.txt
 $ git commit
 ```
+
+## See also
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
