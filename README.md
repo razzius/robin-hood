@@ -21,6 +21,7 @@ $ git merge origin/robyn
 
 6. resolve the merge conflict!
 
+$ git status
 $ vim inscription.txt
 $ git add inscription.txt
 $ git commit
